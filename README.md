@@ -5,9 +5,4 @@ This is a simple cross-platform Todo application built with Wails (Go for backen
 
 ![Random Local Image](build/appicon.png)
 
-<p align="center">
-	<video width="400" controls>
-		<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-		Your browser does not support the video tag.
-	</video>
-</p>
+[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.w3schools.com/html/mov_bbb.mp4)
