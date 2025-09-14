@@ -1,0 +1,12 @@
+# Wails build output
+build/
+
+# Node dependencies
+frontend/node_modules/
+
+# Wails generated bindings (их можно генерировать заново)
+frontend/wailsjs/
+
+# OS files
+.DS_Store
+Thumbs.db
